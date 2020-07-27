@@ -16,3 +16,5 @@ The package comprises of Gaussian and Binomial Distributions and can generate pr
 Write the below command to install it.
 
 pip install axat
+
+More info - <a href="https://pypi.org/project/axat/">here!</a>
