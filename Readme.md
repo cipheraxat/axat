@@ -3,6 +3,7 @@
 The package comprises of Gaussian and Binomial Distributions and can generate probability density function and data plots of these distributions as well.
 
 #Files
+
 1. Gaussiandistribution.py
 2. Binomialdistribution.py
 3. Generaldistribution.py
@@ -11,4 +12,7 @@ The package comprises of Gaussian and Binomial Distributions and can generate pr
 6. license.txt
 
 #Installation
+
+Write the below command to install it.
+
 pip install axat
