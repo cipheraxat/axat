@@ -13,7 +13,7 @@ The package comprises of Gaussian and Binomial Distributions and can generate pr
 
 #Installation
 
-Write the below command to install it.
+Write the below command om terminal/cmd install it.
 
 pip install axat
 
